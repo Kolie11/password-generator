@@ -1,0 +1,78 @@
+body {
+    font-family: poppins, sans-serif;
+    background: #27292c;
+    color:#F4F0BB;;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    text-align: left;
+        margin-left: 38px;
+        font-weight: bold;
+}
+p{
+     text-align: left;
+ margin-left: 38px;
+ margin-bottom: 55px;
+ color: #DA2C38;
+}
+
+.container{
+padding-top: 50px;
+margin: 0 auto;
+    width: 500px;
+    height: 500px;
+background-color: #43291F;
+    background-position: center;
+    background-size: cover;
+}
+
+span.span-text{
+    color: #226F54;
+    font-weight: bold;
+}
+
+#password-btn{
+    font-weight: bold;
+    display: block;
+    margin-bottom: 25px;
+    margin-left: 38px;
+     outline: none;
+    border: none;
+    padding: 10px;
+     width: 190px;
+    margin-top: 15px;
+    background-color: #226F54;
+    color: #F4F0BB;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 1px 1px 0px #F4F0BB;
+     transition: all .5s ease-in-out;
+}
+
+#password-btn:hover{
+    background-color: #242F40;
+}
+
+hr{
+    margin: 50px 38px 50px 38px;
+}
+
+.btn-box span{
+  
+    display: inline-block;
+    margin:0 10px 0 10px;
+    background: black;
+    color: #226F54;
+    font-weight: bold;
+    width: 179px;
+    height: 20px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    background-color: #87C38F;
+}
+
